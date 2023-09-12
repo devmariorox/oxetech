@@ -1,0 +1,22 @@
+.time{
+    width: 70%;
+    text-align: center;
+    padding: 28px;
+    
+}
+
+.time h2{
+    font-size: 32px;
+    border-bottom: 1px solid #57c278;
+    display: inline-block;
+    padding-bottom: 8px;
+
+
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    flex-direction: row;
+}
